@@ -5,7 +5,6 @@
 ###
 
 <p align="left">I'm a Web Developer student at O'clock School. </p>
-<p>I'm taking training that will allow me to be specialized in web accessibility.</p>
 <p>I live in south of France, where the sun shines 🌞</p>
 
 ###
@@ -17,6 +16,7 @@
 <p align="left">
   👩🏻‍⚕️ After working as a nurse for 6 years, I decided to take on a new challenge by retraining in web development.<br>
   🎯 My goal is to obtain the professional title of web developer in order to work as an employee.<br>
+   I  plan to become an API developer and obtain my Mulesoft certification.
   🎲 Fun fact : I'm a pet lover 😻🐶🐰
 </p>
 
@@ -27,8 +27,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/markdown/markdown-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" height="40" alt="typescript logo"  />
