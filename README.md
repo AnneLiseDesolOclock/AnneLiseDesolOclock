@@ -15,8 +15,7 @@
 
 <p align="left">
   👩🏻‍⚕️ After working as a nurse for 6 years, I decided to take on a new challenge by retraining in web development.<br>
-  🎯 My goal is to obtain the professional title of web developer in order to work as an employee.<br>
-   I  plan to become an API developer and obtain my Mulesoft certification.
+  🎯 My goal is to become an API developer and obtain my Mulesoft certification.<br>
   🎲 Fun fact : I'm a pet lover 😻🐶🐰
 </p>
 
