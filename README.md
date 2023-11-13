@@ -33,7 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+  <img width="12" />
 </div>
 
 ###
