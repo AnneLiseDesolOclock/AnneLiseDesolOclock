@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Anne-Lise 👋 Welcome to my GitHub ✌</h1>
 
-![Photo d'un ordinateur portable et d'un stéthoscope](images/banniere2.jpg)
-
 ###
 
 <p align="left">I'm a Web Developer student at O'clock School. </p>
