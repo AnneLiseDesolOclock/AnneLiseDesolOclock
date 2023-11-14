@@ -26,6 +26,10 @@
 ###
 
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" alt="git logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" height="40" alt="typescript logo"  />
