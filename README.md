@@ -34,6 +34,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
+  <img width="12" />
 </div>
 
 ###
