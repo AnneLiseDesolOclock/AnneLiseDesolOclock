@@ -36,6 +36,12 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="40" alt="js logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="js logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="js logo" />
+  <img width="12" />
 </div>
 
 ###
