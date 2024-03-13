@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="js logo" />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="js logo" />
+  <img width="12" />
 </div>
 
 ###
